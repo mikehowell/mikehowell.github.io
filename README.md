@@ -1,2 +1,3 @@
-# mikehowell.github.io
-github pages repo to host my static site pages.
+# Technology Tales
+
+This is my blog site server up on GitHub pages.
